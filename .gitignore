@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+
+# JetBrains IDE settings
+.idea/
+
+# VS Code settings
+.vscode/
